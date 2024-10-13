@@ -1,16 +1,7 @@
-# dicee
+diceeGame
+This is a simple Flutter application that simulates the rolling of two dice. Each time you tap the screen, two dice are rolled, and random numbers are generated.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features:
+Tap the screen to roll two dice.
+Random numbers are generated for both dice.
+Clean and simple UI.
